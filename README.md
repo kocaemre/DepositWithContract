@@ -1,4 +1,4 @@
-## DepozitWithFunc
+## DepozitWithContract
 
 This smart contract allows users to deposit Ethereum into their accounts and query their account balances. It also enables the contract owner to transfer money from the contract.
 
